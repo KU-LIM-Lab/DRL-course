@@ -8,7 +8,7 @@
 ## List of Algorithms
 
 1. DAgger [[paper](https://arxiv.org/abs/1011.0686)][[code](https://github.com/UNIST-LIM-Lab/DRL-course/tree/main/1_DAgger)]
-2. DQN [[paper](https://www.nature.com/articles/nature14236)][[code]()]
+2. DQN [[paper](https://www.nature.com/articles/nature14236)][[code](https://github.com/UNIST-LIM-Lab/DRL-course/tree/main/2_DQN)]
 3. A3C [[paper](https://arxiv.org/abs/1602.01783)][[code]()]
 4. TRPO [[paper](https://arxiv.org/abs/1502.05477)][[code]()]
 5. PPO [[paper](https://arxiv.org/abs/1707.06347)][[code]()]
