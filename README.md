@@ -11,7 +11,7 @@
 2. DQN [[paper](https://www.nature.com/articles/nature14236)][[code](https://github.com/UNIST-LIM-Lab/DRL-course/tree/main/2_DQN)]
 3. A3C [[paper](https://arxiv.org/abs/1602.01783)][[code]()]
 4. TRPO [[paper](https://arxiv.org/abs/1502.05477)][[code]()]
-5. PPO [[paper](https://arxiv.org/abs/1707.06347)][[code]()]
+5. PPO [[paper](https://arxiv.org/abs/1707.06347)][[code](https://github.com/UNIST-LIM-Lab/DRL-course/tree/main/5_PPO)]
 6. SAC [[paper](https://arxiv.org/abs/1801.01290)][[code]()]
 7. TAC [[paper](https://arxiv.org/abs/1902.00137)][[code]()]
 8. TD3 [[paper](https://arxiv.org/abs/1802.09477)][[code]()]
