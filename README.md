@@ -4,6 +4,7 @@
 
 1. OpenGym quickstart [[Google Colab](https://colab.research.google.com/drive/1jGaHnYDQhizjX9s0JSaRVHUY4QzVQmdX?usp=sharing)]
 2. Creating Gym environment [[Google Colab](https://colab.research.google.com/drive/12MgKMsS67-8ub2FhVqf_YXDEOU4lLusX?usp=sharing)]
+3. RLLib [[Google Colabl](https://github.com/UNIST-LIM-Lab/DRL-course/blob/main/supplementary/RLlib_tutorial.ipynb)]
 
 ## List of Algorithms
 
