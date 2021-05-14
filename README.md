@@ -18,11 +18,11 @@
 8. TD3 [[paper](https://arxiv.org/abs/1802.09477)]
 9. DDPG [[paper](https://arxiv.org/abs/1509.02971)]
 10. IMPALA [[paper](https://arxiv.org/abs/1802.01561)][[code](https://github.com/UNIST-LIM-Lab/DRL-course/blob/main/10_IMPALA)]
-11. HER [[paper](https://arxiv.org/abs/1707.01495)][[code]()]
-12. QMIX [[paper](https://arxiv.org/abs/1803.11485)][[code]()]
-13. RAINBOW [[paper](https://arxiv.org/abs/1710.02298)][[code]()]
-14. Distributional RL [[paper](https://arxiv.org/abs/1707.06887)][[code]()]
-15. World Models [[paper](https://arxiv.org/abs/1803.10122)][[code]()]
+11. HER [[paper](https://arxiv.org/abs/1707.01495)]
+12. QMIX [[paper](https://arxiv.org/abs/1803.11485)]
+13. RAINBOW [[paper](https://arxiv.org/abs/1710.02298)]
+14. Distributional RL [[paper](https://arxiv.org/abs/1707.06887)]
+15. World Models [[paper](https://arxiv.org/abs/1803.10122)][[code](https://github.com/UNIST-LIM-Lab/DRL-course/tree/main/15_World_Models)]
 
 ## Setup
 - Requirements
